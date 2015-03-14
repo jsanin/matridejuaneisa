@@ -1,0 +1,1 @@
+Tiene la funcionalidad del sitio de nuestro matrimonio. En este se podrá tener una lista de invitados los cuales podrán confirmar su asistencia
